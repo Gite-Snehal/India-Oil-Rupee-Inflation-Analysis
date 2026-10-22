@@ -1,1 +1,1 @@
-PostgreSQL project queries .
+PostgreSQL Project Queries .
