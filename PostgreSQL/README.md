@@ -1,1 +1,1 @@
-PostgreSQL project queries likho.
+PostgreSQL project queries .
